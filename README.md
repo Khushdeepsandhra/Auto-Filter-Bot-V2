@@ -7,8 +7,8 @@
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/TroJanzHEX/Auto-Filter-Bot-V2/stargazers">
-    <img src="https://img.shields.io/github/stars/TroJanzHEX/Auto-Filter-Bot-V2?style=social">
+  <a href="https://github.com/khushdeepsandhra/Auto-Filter-Bot-V2/stargazers">
+    <img src="https://img.shields.io/github/stars/khushdeepsandhra/Auto-Filter-Bot-V2?style=social">
 
   </a>
   
@@ -71,7 +71,7 @@ Thanks to [InfotelGroup](https://telegram.dog/InFoTelGroup) and [Erich Daniken](
 ## Installation
 
 ### Deploy to Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TroJanzHEX/Auto-Filter-Bot-V2)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/khushdeepsandhra/Auto-Filter-Bot-V2)
 
 ### Deploy in your vps
 ```sh
